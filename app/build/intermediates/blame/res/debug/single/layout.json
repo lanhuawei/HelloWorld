@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test2.xml",
+        "source": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\src\\main\\res\\layout\\test2.xml"
+    },
+    {
+        "merged": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test01.xml",
+        "source": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\src\\main\\res\\layout\\test01.xml"
+    },
+    {
+        "merged": "D:\\androidNew\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test01.xml",
+        "source": "D:\\androidNew\\HelloWorld\\app\\src\\main\\res\\layout\\test01.xml"
+    },
+    {
+        "merged": "D:\\androidNew\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test2.xml",
+        "source": "D:\\androidNew\\HelloWorld\\app\\src\\main\\res\\layout\\test2.xml"
+    },
+    {
+        "merged": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_test.xml",
+        "source": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\src\\main\\res\\layout\\frame_test.xml"
+    },
+    {
+        "merged": "D:\\androidNew\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_test.xml",
+        "source": "D:\\androidNew\\HelloWorld\\app\\src\\main\\res\\layout\\frame_test.xml"
+    }
+]

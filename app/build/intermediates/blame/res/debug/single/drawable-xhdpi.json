@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle.png",
+        "source": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "D:\\androidNew\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\circle.png",
+        "source": "D:\\androidNew\\HelloWorld\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\MobilePayment_history\\change_one\\HelloWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidNew\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\androidNew\\HelloWorld\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

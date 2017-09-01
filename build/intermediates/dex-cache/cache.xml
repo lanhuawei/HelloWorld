@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\program\androidstudio\appdata\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\MobilePayment_history\change_one\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_286ff7fdef6360a1176607b2d3092e7b47421127\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MobilePayment_history\change_one\HelloWorld\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0141b600cb2ca05a8b23075cd3695a815d5b01c">
+        <dex dex="D:\MobilePayment_history\change_one\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4c36f7d12b68e10ade760ff1fad8ac7bcd68e7ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MobilePayment_history\change_one\HelloWorld\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\MobilePayment_history\change_one\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3de0b4cf387624b9d078033ec5b7096aeabe728\classes.dex" />
+    </item>
+
+</items>

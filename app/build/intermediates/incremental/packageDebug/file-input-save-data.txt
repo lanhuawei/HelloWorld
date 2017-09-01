@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Sep 01 10:14:54 CST 2017
+2.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\test01.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4c36f7d12b68e10ade760ff1fad8ac7bcd68e7ea
+6.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\frame_test.xml
+2.set=ANDROID_RESOURCE
+4.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3de0b4cf387624b9d078033ec5b7096aeabe728\\classes.dex
+7.set=DEX
+count=9
+0.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\test2.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\circle.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e3de0b4cf387624b9d078033ec5b7096aeabe728
+2.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4c36f7d12b68e10ade760ff1fad8ac7bcd68e7ea\\classes.dex
+3.set=DEX
+1.base=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\MobilePayment_history\\change_one\\HelloWorld\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
